@@ -1,0 +1,31 @@
+div {
+
+        background-color:rgb(236, 240, 241); 
+        padding: 21px;
+    }
+
+    .post-1 {
+        background-color: #34495E;
+        border-radius: 20px;
+        padding: 21px;
+        margin-bottom: 10px;
+    }
+    .post-2 {
+        background-color: #34495E;
+        border-radius: 20px;
+        padding: 21px;
+        margin-bottom: 10px;
+    }
+    .post-3 {
+        background-color: #34495E;
+        border-radius: 20px;
+        padding: 21px;
+        margin-bottom: 10px;
+    }
+
+    p{
+        color: white;
+        margin-left: 40px;
+
+    }
+    
